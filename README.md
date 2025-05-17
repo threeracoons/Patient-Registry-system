@@ -44,11 +44,11 @@ Search patients: If you want to search a patient, you can use this tab and searc
 Dashboard: The dashboard holds the graphs of data on various fields, at the top on it's window there are various other graphs tabs and also the number of patients registered overall and for today, the average age of all the patients, total revenue from appointments, the 6 graphs present in the dashboard are:-
 ![image](https://github.com/user-attachments/assets/3e528e2c-a7ac-4706-9dd5-f658a0e6d07f)
 - Gender distribution in a pie graph
-![image](https://github.com/user-attachments/assets/353709ec-ab0b-41ae-bba4-392fec78fe73)
+![image](https://github.com/user-attachments/assets/8bc5e067-dcb1-4be3-a40c-f3a07d3d37b2)
 - Age distribution in a pie graph
-![image](https://github.com/user-attachments/assets/33a6edce-36f2-41f5-a423-ac25b9bd8d43)
+![image](https://github.com/user-attachments/assets/512364ed-d4b9-4aae-bed6-83fb691a60b1)
 - Insurance distribution in a pie graph
-![image](https://github.com/user-attachments/assets/e0b7ff5a-0092-4c41-879f-9fd0d8a0ff65)
+![image](https://github.com/user-attachments/assets/643a45cf-0343-4798-9bc8-f877adf77f96)
 - Bar graph of trends in appointments baased on the month
 ![image](https://github.com/user-attachments/assets/59a208ab-526e-4da1-af15-d0b7132e0013)
 - A line stats graph based on the number of people registering by each month
