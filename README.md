@@ -21,17 +21,17 @@ Audit tracking: The changes and updates made to the application are tracked in t
 
 ## How to run
 The app.py is where the app has to be run, if you're using VS code, simply use the 'run python file' button on the top right (your right) of the screen, but you will require certain packages to be able to run the application, such as:
-tkinter - The standard Python interface to the Tk GUI toolkit (for building the graphical user interface)
-ttk (from tkinter) - Themed widgets that provide a more modern look than standard tkinter widgets
-pymongo - The official MongoDB driver for Python (for connecting to and interacting with MongoDB)
-bson (specifically ObjectId) - For handling MongoDB's unique identifier format
-matplotlib - Comprehensive library for creating static, animated, and interactive visualizations
-pandas - Powerful data analysis and manipulation library (used for CSV export functionality)
-numpy - Fundamental package for scientific computing (used by pandas and matplotlib)
-datetime - For handling dates and times throughout the application
-json - For JSON serialization (used in the export functionality)
-filedialog - For file save dialogs in the export feature
-messagebox - For displaying alerts and confirmation dialogs
+- tkinter - The standard Python interface to the Tk GUI toolkit (for building the graphical user interface)
+- ttk (from tkinter) - Themed widgets that provide a more modern look than standard tkinter widgets
+- pymongo - The official MongoDB driver for Python (for connecting to and interacting with MongoDB)
+- bson (specifically ObjectId) - For handling MongoDB's unique identifier format
+- matplotlib - Comprehensive library for creating static, animated, and interactive visualizations
+- pandas - Powerful data analysis and manipulation library (used for CSV export functionality)
+- numpy - Fundamental package for scientific computing (used by pandas and matplotlib)
+- datetime - For handling dates and times throughout the application
+- json - For JSON serialization (used in the export functionality)
+- filedialog - For file save dialogs in the export feature
+- messagebox - For displaying alerts and confirmation dialogs
 
 
 ## Project features
