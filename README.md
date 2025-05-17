@@ -33,6 +33,7 @@ The app.py is where the app has to be run, if you're using VS code, simply use t
 - filedialog - For file save dialogs in the export feature
 - messagebox - For displaying alerts and confirmation dialogs
 
+![image](https://github.com/user-attachments/assets/d74bcf9f-90ec-4553-b1c0-d0b8b8c26a1d)
 
 ## Project features
 Adding patients: A patient's details such as Name, Age, Insurance provider, Medical history, Gender can be filled and added to the datatable present in the tab
